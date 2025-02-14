@@ -1,0 +1,11 @@
+[project]
+name = "lass-data-process"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "aac-datasets>=0.5.2",
+    "datasets>=3.2.0",
+    "yt-dlp>=2025.1.26",
+]
